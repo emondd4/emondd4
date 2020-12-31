@@ -12,6 +12,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emondd4&hide=TeX&layout=compact)
 
+<br>
+<br>
 
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Emon Hossain</h1>
 <h3 align="left">I am a Android Developer,  Doing  Java/Flutter/Kotlin/Rest/XML  Things</h3>
