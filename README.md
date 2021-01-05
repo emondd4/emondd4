@@ -72,13 +72,13 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="https://github.com/emondd4/Readme_Things/blob/main/icons/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="https://github.com/emondd4/Readme_Things/blob/main/icons/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
@@ -87,7 +87,7 @@
   <tr>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+        <img src="https://github.com/emondd4/Readme_Things/blob/main/icons/mysql-original.svg" width="48" height="48" alt="MySQL" />
       </a>
       <br>MySQL
     </td>
