@@ -6,7 +6,7 @@
 
 <div align="left">
   <a href="https://github.com/emondd4">
-    <img src="https://github-readme-stats.vercel.app/api?username=emondd4&show_icons=true&count_private=true&include_all_commits=true" alt="emondd4" align="left" />
+    <img src="https://github-readme-stats.vercel.app/api?username=emondd4&count_private=true&show_icons=true" alt="emondd4" align="left" />
   </a>
 </div>
 
