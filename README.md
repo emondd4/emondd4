@@ -12,7 +12,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emondd4&hide=TeX&layout=compact)
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@emondd4)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@emondd4&v=2&layout=compact)
 
 <br>
 <br>
