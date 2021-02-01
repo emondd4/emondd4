@@ -22,7 +22,7 @@
 
 <p align="left">
   <a href="https://github.com/emondd4">
-    <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
+    <img src="https://komarev.com/ghpvc/?username=emondd4" alt="page views" />
   </a>
   <a href="https://stackoverflow.com/users/13304913/emon-hossain-munna">
     <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/13304913?color=orange&label=reputation&logo=stackoverflow">
