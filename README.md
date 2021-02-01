@@ -18,7 +18,7 @@
 <br>
 
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Emon Hossain</h1>
-<h3 align="left">I am a Android Developer,  Doing  Java/Flutter/Kotlin/Rest/XML  Things</h3>
+<h3 align="left">I am an Android Developer,  Doing  Java/Flutter/Kotlin/Rest/XML  Things</h3>
 
 <p align="left">
   <a href="https://github.com/emondd4">
@@ -50,37 +50,37 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/emondd4/Readme_Things/blob/main/icons/android-original.svg" width="48" height="48" alt="Android" />
+        <img src="https://github.com/emondd4/Readme_Things/blob/main/icons/android-original.svg" width="48" alt="Android" />
       </a>
       <br>Android
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/emondd4/Readme_Things/blob/main/icons/flutter-original.svg" width="48" height="48" alt="Flutter" />
+        <img src="https://github.com/emondd4/Readme_Things/blob/main/icons/flutter-original.svg" width="48" alt="Flutter" />
       </a>
       <br>Flutter
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/emondd4/Readme_Things/blob/main/icons/java-original.svg" width="48" height="48" alt="Java" />
+        <img src="https://github.com/emondd4/Readme_Things/blob/main/icons/java-original.svg" width="48" alt="Java" />
       </a>
       <br>Java
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/emondd4/Readme_Things/blob/main/icons/kotlin-original.svg" width="48" height="48" alt="Kotlin" />
+        <img src="https://github.com/emondd4/Readme_Things/blob/main/icons/kotlin-original.svg" width="48" alt="Kotlin" />
       </a>
       <br>Kotlin
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/emondd4/Readme_Things/blob/main/icons/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="https://github.com/emondd4/Readme_Things/blob/main/icons/python-original.svg" width="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/emondd4/Readme_Things/blob/main/icons/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="https://github.com/emondd4/Readme_Things/blob/main/icons/bootstrap-plain.svg" width="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
@@ -89,13 +89,13 @@
   <tr>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/emondd4/Readme_Things/blob/main/icons/mysql-original.svg" width="48" height="48" alt="MySQL" />
+        <img src="https://github.com/emondd4/Readme_Things/blob/main/icons/mysql-original.svg" width="48" alt="MySQL" />
       </a>
       <br>MySQL
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/emondd4/Readme_Things/blob/main/icons/gradle-plain.svg" width="48" height="48" alt="Gradle" />
+        <img src="https://github.com/emondd4/Readme_Things/blob/main/icons/gradle-plain.svg" width="48" alt="Gradle" />
       </a>
       <br>Gradle
     </td>
