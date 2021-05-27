@@ -37,8 +37,8 @@
 
 
 - :office: &nbsp;I'm currently working at <a href="https://www.bdtask.com/">**bdtask**</a>
-- :seedling: &nbsp;I’m currently learning **Flutter & Kotlin**
-- :speech_balloon: &nbsp;I like to talk about **Android** and **Json**
+- :seedling: &nbsp;I’m currently learning **Kotlin, Will be learning IOS Development Soon!**
+- :speech_balloon: &nbsp;I like to talk about **Mobile Application Technology**
 - :mailbox: &nbsp;Ask me anything on my <a href="https://www.facebook.com/emondd4">**Facebook**</a>
 - :computer: &nbsp;Connect with me on <a href="https://www.linkedin.com/in/emondd4/">**LinkedIn**</a>
 
