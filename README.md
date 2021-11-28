@@ -17,6 +17,9 @@
 <br>
 <br>
 
+<a href="http://www.nerdtests.com/ft_nq.php">
+<img src="http://www.nerdtests.com/images/ft/nq/5ec49eb8f7.gif" alt="I am nerdier than 90% of all people. Are you a nerd? Click here to take the Nerd Test, get nerdy images and jokes, and write on the nerd forum!"></a>
+
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Emon Hossain</h1>
 <h3 align="left">I am an Android Developer,  Doing  Java/Flutter/Kotlin/Rest/XML  Things</h3>
 
