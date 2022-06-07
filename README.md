@@ -39,7 +39,7 @@
 </p>
 
 
-- :office: &nbsp;I'm currently working at <a href="https://www.bdtask.com/">**bdtask**</a>
+- :office: &nbsp;I'm currently working at <a href="https://aqualinkbangladesh.com/">**Aqualink Bangladesh Ltd.**</a>
 - :seedling: &nbsp;I’m currently learning **Kotlin, Will be learning IOS Development Soon!**
 - :speech_balloon: &nbsp;I like to talk about **Mobile Application Technology**
 - :mailbox: &nbsp;Ask me anything on my <a href="https://www.facebook.com/emondd4">**Facebook**</a>
